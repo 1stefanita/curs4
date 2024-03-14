@@ -1,8 +1,15 @@
 .buttonred{
-   font-size:25px;
-margin-left: 25px;
-   background-color: rgb(235, 3, 3);
+    font-size:25px;
+    margin-left: 25px;
+    background-color: rgb(235, 3, 3);
     color:rgb(229, 221, 221);
+    border-radius: 10px;
+
+}
+.darkbutton{
+    font-size:25px;
+    background-color: black;
+    color:white;
     border-radius: 10px;
 
 }
